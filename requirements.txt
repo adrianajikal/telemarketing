@@ -1,0 +1,6 @@
+streamlit==1.42.2
+matplotlib==3.10.1
+pandas==2.2.3
+XlsxWriter==3.2.2
+seaborn==0.13.2
+protobuf==3.20.1
