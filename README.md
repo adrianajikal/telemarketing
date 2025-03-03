@@ -6,6 +6,9 @@ Um simples resumo do uso/propósito do projeto.
 
 Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
 
+## Link para a aplicaçao (LIVE)
+https://telemarketing-prxs.onrender.com/
+
 ## Utilização
 
 ### Dependencias
